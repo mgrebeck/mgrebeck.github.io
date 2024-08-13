@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Michael Grebeck</title>
-    <link>https://mgrebeck.github.io/</link>
-    <description>Recent content on Michael Grebeck</description>
+    <title>Posts on Michael Grebeck</title>
+    <link>https://mgrebeck.github.io/posts/</link>
+    <description>Recent content in Posts on Michael Grebeck</description>
     <image>
       <title>Michael Grebeck</title>
       <url>https://mgrebeck.github.io/</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Aug 2024 16:12:44 -0400</lastBuildDate>
-    <atom:link href="https://mgrebeck.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mgrebeck.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Examplepost2</title>
       <link>https://mgrebeck.github.io/posts/examplepost2/</link>
